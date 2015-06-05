@@ -8,7 +8,7 @@ language_tabs:
 
 
 toc_footers:
-  - <a href='mailto:rk@itembase.biz'>Sign Up for a Developer Key</a>
+  - <a href='mailto:rk@itembase.biz'>Sign Up for a Developer Key by email</a>
   - <a href='http://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
